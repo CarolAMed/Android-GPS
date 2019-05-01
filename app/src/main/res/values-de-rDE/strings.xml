@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suche mit GPS</string>
+    <string name="action_settings">die Einstellungen</string>
+    <string name="permissaoGPS">GPS-Genehmigung Erteilen</string>
+    <string name="ativaGPS">GPS Aktivieren</string>
+    <string name="desativaGPS">GPS Deaktivieren</string>
+    <string name="iniciaPercurso">Route Starten</string>
+    <string name="finalizaPercurso">Kurs Beenden</string>
+    <string name="textoBusca">Nach was möchten Sie suchen?</string>
+    <string name="withoutgps">GPS aus</string>
+    <string name="busca">Orte</string>
+    <string name="cliquegps">Klicken Sie hier, um GPS zu aktivieren</string>
+    <string name="gpsoff">GPS ist ausgeschaltet</string>
+    <string name="semGPS">" Bei inaktivem GPS ist dies nicht möglich"</string>
+</resources>
